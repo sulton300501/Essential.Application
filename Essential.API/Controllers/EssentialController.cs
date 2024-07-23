@@ -9,6 +9,7 @@ namespace Essential.API.Controllers
     [ApiController]
     public class EssentialController : ControllerBase
     {
+    
 
         private readonly IEssentialService _essential;
 
